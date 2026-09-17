@@ -25,3 +25,4 @@ Thumbs.db
 *.bbl
 *.blg
 *.synctex.gz
+data/interim/

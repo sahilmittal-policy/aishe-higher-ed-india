@@ -1,312 +1,312 @@
 report,sheet_name,table_no_guess,table_id,description,include,notes
-2019-20,4CollegeIndicator,4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2020-21,4CollegeIndicator,4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2021-22,4CollegeIndicator,4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2022-23,4CollegeIndicator,4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2023-24,4CollegeIndicator,4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2019-20,4CollegeIndicator (2),4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2020-21,4CollegeIndicator (2),4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2021-22,4CollegeIndicator (2),4,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
-2019-20,42CollegeIndicator,42,college_indicators_series,"College indicators, 5-year series",yes,Back-series
-2020-21,42CollegeIndicator,42,college_indicators_series,"College indicators, 5-year series",yes,Back-series
-2021-22,42CollegeIndicator,42,college_indicators_series,"College indicators, 5-year series",yes,Back-series
-2022-23,42CollegeIndicator,42,college_indicators_series,"College indicators, 5-year series",yes,Back-series
-2023-24,42CollegeIndicator,42,college_indicators_series,"College indicators, 5-year series",yes,Back-series
-2019-20,5ManagementCollegeNo,5,college_management,Private vs government colleges,yes,Actual response only
-2020-21,5ManagementCollegeNo,5,college_management,Private vs government colleges,yes,Actual response only
-2021-22,5ManagementCollegeNo,5,college_management,Private vs government colleges,yes,Actual response only
-2022-23,5ManagementCollegeNo,5,college_management,Private vs government colleges,yes,Actual response only
-2023-24,5ManagementCollegeNo,5,college_management,Private vs government colleges,yes,Actual response only
-2019-20,ManagementCollegeNo (2),,college_management,Private vs government colleges,yes,Actual response only
-2020-21,ManagementCollegeNo (2),,college_management,Private vs government colleges,yes,Actual response only
-2021-22,ManagementCollegeNo (2),,college_management,Private vs government colleges,yes,Actual response only
-2019-20,3Collegerange,3,district_institution_dist,Districts and institutions by state,yes,
-2020-21,3Collegerange,3,district_institution_dist,Districts and institutions by state,yes,
-2021-22,3Collegerange,3,district_institution_dist,Districts and institutions by state,yes,
-2022-23,3Collegerange,3,district_institution_dist,Districts and institutions by state,yes,
-2023-24,3Collegerange,3,district_institution_dist,Districts and institutions by state,yes,
-2019-20,10CollegeEst,10,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
-2020-21,10InstituionEst,10,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
-2021-22,10InstituionEst,10,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
-2022-23,10InstituionEst,10,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
-2023-24,10InstituionEst,10,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
-2019-20,8CollegeAct,8,enrol_college,Colleges registered/responded and their enrolment,yes,
-2020-21,8CollegeAct,8,enrol_college,Colleges registered/responded and their enrolment,yes,
-2021-22,8CollegeAct,8,enrol_college,Colleges registered/responded and their enrolment,yes,
-2022-23,8CollegeAct,8,enrol_college,Colleges registered/responded and their enrolment,yes,
-2023-24,8CollegeAct,8,enrol_college,Colleges registered/responded and their enrolment,yes,
-2019-20,6bTotalDistanceEnr,6,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
-2020-21,6bTotalDistanceEnr,6,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
-2021-22,6bTotalDistanceEnr,6,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
-2022-23,6bTotalDistanceEnr,6,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
-2023-24,6bTotalDistanceEnr,6,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
-2022-23,6dTotalOnline,6,enrol_level_online,"Enrolment by level, online mode",yes,Absent before 2022-23. Do not trend
-2023-24,6dTotalOnline,6,enrol_level_online,"Enrolment by level, online mode",yes,Absent before 2022-23. Do not trend
-2021-22,6cTotalPrivateEnr,6,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
-2022-23,6cTotalPrivateEnr,6,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
-2023-24,6cTotalPrivateEnr,6,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
-2019-20,6aTotalRegularEnr,6,enrol_level_regular,"Enrolment by level, regular mode",yes,
-2020-21,6aTotalRegularEnr,6,enrol_level_regular,"Enrolment by level, regular mode",yes,
-2021-22,6aTotalRegularEnr,6,enrol_level_regular,"Enrolment by level, regular mode",yes,
-2022-23,6aTotalRegularEnr,6,enrol_level_regular,"Enrolment by level, regular mode",yes,
-2023-24,6aTotalRegularEnr,6,enrol_level_regular,"Enrolment by level, regular mode",yes,
-2019-20,44ENRLR,44,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
-2020-21,44ENRLR 6a,44,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
-2021-22,44ENRLR 6a,44,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
-2022-23,44ENRLR 6a,44,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
-2023-24,44ENRLR 6a,44,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
-2019-20,43ENRLT,43,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
-2020-21,43ENRLT 6,43,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
-2021-22,43ENRLT 6,43,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
-2022-23,43ENRLT 6,43,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
-2023-24,43ENRLT 6,43,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
-2019-20,6TotalEnr,6,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
-2020-21,6TotalEnr,6,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
-2021-22,6TotalEnr,6,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
-2022-23,6TotalEnr,6,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
-2023-24,6TotalEnr,6,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
-2019-20,46EnrlMinority,46,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
-2020-21,46EnrlMinority 14,46,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
-2021-22,46EnrlMinority 14,46,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
-2022-23,46EnrlMinority 15,46,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
-2023-24,46EnrlMinority 15,46,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
-2019-20,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2020-21,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2021-22,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2022-23,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2023-24,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2019-20,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2020-21,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2021-22,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2022-23,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2023-24,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2019-20,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2020-21,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2021-22,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2023-24,11b ProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2022-23,11bProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2022-23,11dProgrammeOnline,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2021-22,11bProgrammePrivate,11,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
-2022-23,11cProgrammePrivate,11,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
-2023-24,11a programme regular,11,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
-2022-23,11aProgrammeRegular,11,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
-2019-20,45EnrlCategory,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
-2020-21,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
-2021-22,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
-2022-23,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
-2023-24,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
-2020-21,14-15TotalEnrCategory,14,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
-2021-22,14-15TotalEnrCategory (2),14,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
-2022-23,14-15TotalEnrCategory (2),14,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
-2023-24,14-15TotalEnrCategory (2),14,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
-2019-20,14TotalEnrCategory,14,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
-2022-23,27 28 TypeEnrolmentCategory-Est,27,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
-2023-24,27 28 TypeEnrolmentCategory-Est,27,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
-2019-20,27TypeEnrolmentCategory-Est,27,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
-2020-21,27TypeEnrolmentCategory-Est,27,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
-2021-22,27TypeEnrolmentCategory-Est,27,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
-2019-20,9AllSAAct,9,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
-2020-21,9AllSAAct,9,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
-2021-22,9AllSAAct,9,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
-2022-23,9AllSAAct,9,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
-2023-24,9AllSAAct,9,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
-2020-21,9aSAILevel,9,enrol_standalone_level,Standalone enrolment by level,yes,
-2021-22,9aSAILevel,9,enrol_standalone_level,Standalone enrolment by level,yes,
-2022-23,9aSAILevel,9,enrol_standalone_level,Standalone enrolment by level,yes,
-2023-24,9aSAILevel,9,enrol_standalone_level,Standalone enrolment by level,yes,
-2019-20,39TypeStateUnivwithConsUnit,39,enrol_state_univ_type,Enrolment by type in state university departments,yes,
-2020-21,39TypeStateUnivwithConsUnit,39,enrol_state_univ_type,Enrolment by type in state university departments,yes,
-2021-22,39TypeStateUnivwithConsUnit,39,enrol_state_univ_type,Enrolment by type in state university departments,yes,
-2022-23,39TypeStateUnivwithConsUnit,39,enrol_state_univ_type,Enrolment by type in state university departments,yes,
-2023-24,39TypeStateUnivwithConsUnit,39,enrol_state_univ_type,Enrolment by type in state university departments,yes,
-2019-20,12UGDisc ,12,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
-2020-21,12UGDisc ,12,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
-2021-22,12UGDisc ,12,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
-2022-23,12UGDisc ,12,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
-2023-24,12UGDisc ,12,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
-2019-20,50LevelEnrlUniType,50,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
-2020-21,50LevelEnrlUniType,50,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
-2021-22,50LevelEnrlUniType,50,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
-2022-23,50LevelEnrlUniType,50,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
-2023-24,50LevelEnrlUniType,50,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
-2019-20,7UnivActwithConsUnit,7,enrol_university_dept,Enrolment in university teaching departments,yes,
-2020-21,7UnivActwithConsUnit,7,enrol_university_dept,Enrolment in university teaching departments,yes,
-2021-22,7UnivActwithConsUnit,7,enrol_university_dept,Enrolment in university teaching departments,yes,
-2022-23,7UnivActwithConsUnit,7,enrol_university_dept,Enrolment in university teaching departments,yes,
-2023-24,7UnivActwithConsUnit,7,enrol_university_dept,Enrolment in university teaching departments,yes,
-2019-20,26UnivEnrolinclConstituentU,26,enrol_university_type,Enrolment by university type and level,yes,
-2020-21,26UnivEnrolinclConstituentU,26,enrol_university_type,Enrolment by university type and level,yes,
-2021-22,26UnivEnrolinclConstituentU,26,enrol_university_type,Enrolment by university type and level,yes,
-2022-23,26UnivEnrolinclConstituentU,26,enrol_university_type,Enrolment by university type and level,yes,
-2023-24,26UnivEnrolinclConstituentU,26,enrol_university_type,Enrolment by university type and level,yes,
-2019-20,16FS-countrylevel,16,foreign_students_country,Foreign students by country and level,yes,
-2020-21,16FS-countrylevel,16,foreign_students_country,Foreign students by country and level,yes,
-2021-22,16FS-countrylevel,16,foreign_students_country,Foreign students by country and level,yes,
-2022-23,16FS-countrylevel,16,foreign_students_country,Foreign students by country and level,yes,
-2023-24,16FS-countrylevel,16,foreign_students_country,Foreign students by country and level,yes,
-2019-20,18FS-prog,18,foreign_students_programme,Foreign students by programme,yes,
-2020-21,18FS-prog,18,foreign_students_programme,Foreign students by programme,yes,
-2021-22,18FS-prog,18,foreign_students_programme,Foreign students by programme,yes,
-2022-23,18FS-prog,18,foreign_students_programme,Foreign students by programme,yes,
-2023-24,18FS-prog,18,foreign_students_programme,Foreign students by programme,yes,
-2019-20,17FS-statelevel,17,foreign_students_state,Foreign students by state and level,yes,
-2020-21,17FS-statelevel,17,foreign_students_state,Foreign students by state and level,yes,
-2021-22,17FS-statelevel,17,foreign_students_state,Foreign students by state and level,yes,
-2022-23,17FS-statelevel,17,foreign_students_state,Foreign students by state and level,yes,
-2023-24,17FS-statelevel,17,foreign_students_state,Foreign students by state and level,yes,
-2019-20,47GER ,47,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
-2020-21,47GER  19,47,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
-2021-22,47GER  19,47,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
-2022-23,47GER  19,47,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
-2023-24,47GER  19,47,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
-2019-20,19GER,19,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
-2020-21,19GER(2011),19,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
-2021-22,19GER(2011),19,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
-2022-23,19GER(2011),19,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
-2023-24,19GER(2011),19,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
-2019-20,48GPI,48,gpi_series,"GPI, 5-year series",yes,Back-series
-2020-21,48GPI 20,48,gpi_series,"GPI, 5-year series",yes,Back-series
-2021-22,48GPI 20,48,gpi_series,"GPI, 5-year series",yes,Back-series
-2022-23,48GPI 20 Updated,48,gpi_series,"GPI, 5-year series",yes,Back-series
-2023-24,48GPI 20 Updated,48,gpi_series,"GPI, 5-year series",yes,Back-series
-2019-20,20GPI,20,gpi_state,Gender parity index by state,yes,Core
-2020-21,20GPI2011,20,gpi_state,Gender parity index by state,yes,Core
-2021-22,20GPI2011,20,gpi_state,Gender parity index by state,yes,Core
-2022-23,20GPI2011,20,gpi_state,Gender parity index by state,yes,Core
-2023-24,20GPI2011,20,gpi_state,Gender parity index by state,yes,Core
-2019-20,31Hostelstate ,31,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
-2020-21,31Hostelstate ,31,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
-2021-22,31Hostelstate ,31,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
-2022-23,31Hostelstate ,31,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
-2023-24,31Hostelstate ,31,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
-2019-20,32TypeHostel,32,hostel_univ_type,Hostels by university type,yes,
-2020-21,32TypeHostel,32,hostel_univ_type,Hostels by university type,yes,
-2021-22,32TypeHostel,32,hostel_univ_type,Hostels by university type,yes,
-2022-23,32TypeHostel,32,hostel_univ_type,Hostels by university type,yes,
-2023-24,32TypeHostel,32,hostel_univ_type,Hostels by university type,yes,
-2022-23,33 Out Turn,33,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
-2023-24,33 Out Turn,33,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
-2019-20,33OutTurnState,33,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
-2020-21,33OutTurnState,33,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
-2021-22,33OutTurnState,33,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
-2019-20,36 PGDisc ,36,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
-2020-21,36 PGDisc ,36,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
-2021-22,36 PGDisc ,36,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
-2022-23,36 PGDisc ,36,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
-2023-24,37 PGDisc_36E ,37,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
-2022-23,34 Out Turn Prog,34,outturn_programme,Graduates by programme,yes,
-2023-24,34 Out Turn Prog,34,outturn_programme,Graduates by programme,yes,
-2019-20,34OutTurn Prog ,34,outturn_programme,Graduates by programme,yes,
-2020-21,34OutTurn Prog ,34,outturn_programme,Graduates by programme,yes,
-2021-22,34OutTurn Prog ,34,outturn_programme,Graduates by programme,yes,
+2019-20,4CollegeIndicator,4.0,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
+2020-21,4CollegeIndicator,4.0,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
+2021-22,4CollegeIndicator,4.0,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
+2022-23,4CollegeIndicator,4.0,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
+2023-24,4CollegeIndicator,4.0,college_indicators,"Colleges per lakh population, average enrolment",yes,Uses 18-23 population denominator
+2019-20,4CollegeIndicator (2),4.0,,,no,Shorter duplicate of the main sheet; excluded
+2020-21,4CollegeIndicator (2),4.0,,,no,Shorter duplicate of the main sheet; excluded
+2021-22,4CollegeIndicator (2),4.0,,,no,Shorter duplicate of the main sheet; excluded
+2019-20,42CollegeIndicator,42.0,college_indicators_series,"College indicators, 5-year series",yes,Back-series
+2020-21,42CollegeIndicator,42.0,college_indicators_series,"College indicators, 5-year series",yes,Back-series
+2021-22,42CollegeIndicator,42.0,college_indicators_series,"College indicators, 5-year series",yes,Back-series
+2022-23,42CollegeIndicator,42.0,college_indicators_series,"College indicators, 5-year series",yes,Back-series
+2023-24,42CollegeIndicator,42.0,college_indicators_series,"College indicators, 5-year series",yes,Back-series
+2019-20,5ManagementCollegeNo,5.0,college_management,Private vs government colleges,yes,Actual response only
+2020-21,5ManagementCollegeNo,5.0,college_management,Private vs government colleges,yes,Actual response only
+2021-22,5ManagementCollegeNo,5.0,college_management,Private vs government colleges,yes,Actual response only
+2022-23,5ManagementCollegeNo,5.0,college_management,Private vs government colleges,yes,Actual response only
+2023-24,5ManagementCollegeNo,5.0,college_management,Private vs government colleges,yes,Actual response only
+2019-20,ManagementCollegeNo (2),,,,no,Shorter duplicate of the main sheet; excluded
+2020-21,ManagementCollegeNo (2),,,,no,Shorter duplicate of the main sheet; excluded
+2021-22,ManagementCollegeNo (2),,,,no,Shorter duplicate of the main sheet; excluded
+2019-20,3Collegerange,3.0,district_institution_dist,Districts and institutions by state,yes,
+2020-21,3Collegerange,3.0,district_institution_dist,Districts and institutions by state,yes,
+2021-22,3Collegerange,3.0,district_institution_dist,Districts and institutions by state,yes,
+2022-23,3Collegerange,3.0,district_institution_dist,Districts and institutions by state,yes,
+2023-24,3Collegerange,3.0,district_institution_dist,Districts and institutions by state,yes,
+2019-20,10CollegeEst,10.0,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
+2020-21,10InstituionEst,10.0,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
+2021-22,10InstituionEst,10.0,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
+2022-23,10InstituionEst,10.0,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
+2023-24,10InstituionEst,10.0,enrol_by_institution_type,Enrolment by university / college / standalone,yes,Sheet name misspelt in source
+2019-20,8CollegeAct,8.0,enrol_college,Colleges registered/responded and their enrolment,yes,
+2020-21,8CollegeAct,8.0,enrol_college,Colleges registered/responded and their enrolment,yes,
+2021-22,8CollegeAct,8.0,enrol_college,Colleges registered/responded and their enrolment,yes,
+2022-23,8CollegeAct,8.0,enrol_college,Colleges registered/responded and their enrolment,yes,
+2023-24,8CollegeAct,8.0,enrol_college,Colleges registered/responded and their enrolment,yes,
+2019-20,6bTotalDistanceEnr,6.0,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
+2020-21,6bTotalDistanceEnr,6.0,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
+2021-22,6bTotalDistanceEnr,6.0,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
+2022-23,6bTotalDistanceEnr,6.0,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
+2023-24,6bTotalDistanceEnr,6.0,enrol_level_distance,"Enrolment by level, distance mode",yes,Actual response only
+2022-23,6dTotalOnline,6.0,enrol_level_online,"Enrolment by level, online mode",yes,Absent before 2022-23. Do not trend
+2023-24,6dTotalOnline,6.0,enrol_level_online,"Enrolment by level, online mode",yes,Absent before 2022-23. Do not trend
+2021-22,6cTotalPrivateEnr,6.0,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
+2022-23,6cTotalPrivateEnr,6.0,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
+2023-24,6cTotalPrivateEnr,6.0,enrol_level_private,"Enrolment by level, private mode",yes,Absent before 2021-22
+2019-20,6aTotalRegularEnr,6.0,enrol_level_regular,"Enrolment by level, regular mode",yes,
+2020-21,6aTotalRegularEnr,6.0,enrol_level_regular,"Enrolment by level, regular mode",yes,
+2021-22,6aTotalRegularEnr,6.0,enrol_level_regular,"Enrolment by level, regular mode",yes,
+2022-23,6aTotalRegularEnr,6.0,enrol_level_regular,"Enrolment by level, regular mode",yes,
+2023-24,6aTotalRegularEnr,6.0,enrol_level_regular,"Enrolment by level, regular mode",yes,
+2019-20,44ENRLR,44.0,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
+2020-21,44ENRLR 6a,44.0,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
+2021-22,44ENRLR 6a,44.0,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
+2022-23,44ENRLR 6a,44.0,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
+2023-24,44ENRLR 6a,44.0,enrol_level_regular_series,"Regular-mode enrolment by level, 5-year series",yes,Back-series
+2019-20,43ENRLT,43.0,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
+2020-21,43ENRLT 6,43.0,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
+2021-22,43ENRLT 6,43.0,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
+2022-23,43ENRLT 6,43.0,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
+2023-24,43ENRLT 6,43.0,enrol_level_series,"Enrolment by level and sex, 5-year series",yes,Back-series. Pilot table
+2019-20,6TotalEnr,6.0,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
+2020-21,6TotalEnr,6.0,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
+2021-22,6TotalEnr,6.0,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
+2022-23,6TotalEnr,6.0,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
+2023-24,6TotalEnr,6.0,enrol_level_state,"Estimated enrolment by level, by state",yes,Core. Single-year version of T43
+2019-20,46EnrlMinority,46.0,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
+2020-21,46EnrlMinority 14,46.0,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
+2021-22,46EnrlMinority 14,46.0,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
+2022-23,46EnrlMinority 15,46.0,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
+2023-24,46EnrlMinority 15,46.0,enrol_minority_series,"Muslim, other minority, PwBD, EWS, 5-year series",yes,"Back-series. Overlaps SC/ST/OBC, do not sum"
+2019-20,13PGDisc,13.0,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
+2020-21,13PGDisc,13.0,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
+2021-22,13PGDisc,13.0,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
+2022-23,13PGDisc,13.0,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
+2023-24,13PGDisc,13.0,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
+2019-20,11Programme,11.0,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
+2020-21,11Programme,11.0,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
+2021-22,11Programme,11.0,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
+2022-23,11Programme,11.0,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
+2023-24,11Programme,11.0,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
+2019-20,11aProgrammeDistance ,11.0,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
+2020-21,11aProgrammeDistance ,11.0,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
+2021-22,11aProgrammeDistance ,11.0,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
+2023-24,11b ProgrammeDistance ,11.0,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
+2022-23,11bProgrammeDistance ,11.0,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
+2022-23,11dProgrammeOnline,11.0,enrol_programme_social_online,"Programme x social group enrolment, online mode",yes,Was mislabelled as distance mode; corrected
+2021-22,11bProgrammePrivate,11.0,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
+2022-23,11cProgrammePrivate,11.0,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
+2023-24,11a programme regular,11.0,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
+2022-23,11aProgrammeRegular,11.0,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
+2019-20,45EnrlCategory,45.0,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
+2020-21,45EnrlCategory 14,45.0,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
+2021-22,45EnrlCategory 14,45.0,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
+2022-23,45EnrlCategory 14,45.0,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
+2023-24,45EnrlCategory 14,45.0,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
+2020-21,14-15TotalEnrCategory,14.0,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
+2021-22,14-15TotalEnrCategory (2),14.0,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
+2022-23,14-15TotalEnrCategory (2),14.0,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
+2023-24,14-15TotalEnrCategory (2),14.0,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
+2019-20,14TotalEnrCategory,14.0,enrol_social_state,SC/ST/OBC enrolment by state,yes,Caste core. Was 14TotalEnrCategory in 2019-20
+2022-23,27 28 TypeEnrolmentCategory-Est,27.0,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
+2023-24,27 28 TypeEnrolmentCategory-Est,27.0,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
+2019-20,27TypeEnrolmentCategory-Est,27.0,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
+2020-21,27TypeEnrolmentCategory-Est,27.0,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
+2021-22,27TypeEnrolmentCategory-Est,27.0,enrol_social_univ_type,Social group enrolment by university type,yes,Caste. Tables 27 and 28 merged into one sheet
+2019-20,9AllSAAct,9.0,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
+2020-21,9AllSAAct,9.0,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
+2021-22,9AllSAAct,9.0,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
+2022-23,9AllSAAct,9.0,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
+2023-24,9AllSAAct,9.0,enrol_standalone,"Standalone institutions, enrolment by type",yes,"50 columns, widest sheet"
+2020-21,9aSAILevel,9.0,enrol_standalone_level,Standalone enrolment by level,yes,
+2021-22,9aSAILevel,9.0,enrol_standalone_level,Standalone enrolment by level,yes,
+2022-23,9aSAILevel,9.0,enrol_standalone_level,Standalone enrolment by level,yes,
+2023-24,9aSAILevel,9.0,enrol_standalone_level,Standalone enrolment by level,yes,
+2019-20,39TypeStateUnivwithConsUnit,39.0,enrol_state_univ_type,Enrolment by type in state university departments,yes,
+2020-21,39TypeStateUnivwithConsUnit,39.0,enrol_state_univ_type,Enrolment by type in state university departments,yes,
+2021-22,39TypeStateUnivwithConsUnit,39.0,enrol_state_univ_type,Enrolment by type in state university departments,yes,
+2022-23,39TypeStateUnivwithConsUnit,39.0,enrol_state_univ_type,Enrolment by type in state university departments,yes,
+2023-24,39TypeStateUnivwithConsUnit,39.0,enrol_state_univ_type,Enrolment by type in state university departments,yes,
+2019-20,12UGDisc ,12.0,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
+2020-21,12UGDisc ,12.0,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
+2021-22,12UGDisc ,12.0,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
+2022-23,12UGDisc ,12.0,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
+2023-24,12UGDisc ,12.0,enrol_ug_discipline,UG enrolment by discipline,yes,Trailing space in name
+2019-20,50LevelEnrlUniType,50.0,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
+2020-21,50LevelEnrlUniType,50.0,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
+2021-22,50LevelEnrlUniType,50.0,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
+2022-23,50LevelEnrlUniType,50.0,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
+2023-24,50LevelEnrlUniType,50.0,enrol_univ_type_series,"Enrolment by university type and level, 5-year",yes,Back-series
+2019-20,7UnivActwithConsUnit,7.0,enrol_university_dept,Enrolment in university teaching departments,yes,
+2020-21,7UnivActwithConsUnit,7.0,enrol_university_dept,Enrolment in university teaching departments,yes,
+2021-22,7UnivActwithConsUnit,7.0,enrol_university_dept,Enrolment in university teaching departments,yes,
+2022-23,7UnivActwithConsUnit,7.0,enrol_university_dept,Enrolment in university teaching departments,yes,
+2023-24,7UnivActwithConsUnit,7.0,enrol_university_dept,Enrolment in university teaching departments,yes,
+2019-20,26UnivEnrolinclConstituentU,26.0,enrol_university_type,Enrolment by university type and level,yes,
+2020-21,26UnivEnrolinclConstituentU,26.0,enrol_university_type,Enrolment by university type and level,yes,
+2021-22,26UnivEnrolinclConstituentU,26.0,enrol_university_type,Enrolment by university type and level,yes,
+2022-23,26UnivEnrolinclConstituentU,26.0,enrol_university_type,Enrolment by university type and level,yes,
+2023-24,26UnivEnrolinclConstituentU,26.0,enrol_university_type,Enrolment by university type and level,yes,
+2019-20,16FS-countrylevel,16.0,foreign_students_country,Foreign students by country and level,yes,
+2020-21,16FS-countrylevel,16.0,foreign_students_country,Foreign students by country and level,yes,
+2021-22,16FS-countrylevel,16.0,foreign_students_country,Foreign students by country and level,yes,
+2022-23,16FS-countrylevel,16.0,foreign_students_country,Foreign students by country and level,yes,
+2023-24,16FS-countrylevel,16.0,foreign_students_country,Foreign students by country and level,yes,
+2019-20,18FS-prog,18.0,foreign_students_programme,Foreign students by programme,yes,
+2020-21,18FS-prog,18.0,foreign_students_programme,Foreign students by programme,yes,
+2021-22,18FS-prog,18.0,foreign_students_programme,Foreign students by programme,yes,
+2022-23,18FS-prog,18.0,foreign_students_programme,Foreign students by programme,yes,
+2023-24,18FS-prog,18.0,foreign_students_programme,Foreign students by programme,yes,
+2019-20,17FS-statelevel,17.0,foreign_students_state,Foreign students by state and level,yes,
+2020-21,17FS-statelevel,17.0,foreign_students_state,Foreign students by state and level,yes,
+2021-22,17FS-statelevel,17.0,foreign_students_state,Foreign students by state and level,yes,
+2022-23,17FS-statelevel,17.0,foreign_students_state,Foreign students by state and level,yes,
+2023-24,17FS-statelevel,17.0,foreign_students_state,Foreign students by state and level,yes,
+2019-20,47GER ,47.0,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
+2020-21,47GER  19,47.0,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
+2021-22,47GER  19,47.0,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
+2022-23,47GER  19,47.0,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
+2023-24,47GER  19,47.0,ger_series,"GER, 5-year series",yes,Back-series. Two spaces in sheet name
+2019-20,19GER,19.0,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
+2020-21,19GER(2011),19.0,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
+2021-22,19GER(2011),19.0,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
+2022-23,19GER(2011),19.0,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
+2023-24,19GER(2011),19.0,ger_state,"GER by state, 18-23 years",yes,Core. Census 2011 denominator
+2019-20,48GPI,48.0,gpi_series,"GPI, 5-year series",yes,Back-series
+2020-21,48GPI 20,48.0,gpi_series,"GPI, 5-year series",yes,Back-series
+2021-22,48GPI 20,48.0,gpi_series,"GPI, 5-year series",yes,Back-series
+2022-23,48GPI 20 Updated,48.0,gpi_series,"GPI, 5-year series",yes,Back-series
+2023-24,48GPI 20 Updated,48.0,gpi_series,"GPI, 5-year series",yes,Back-series
+2019-20,20GPI,20.0,gpi_state,Gender parity index by state,yes,Core
+2020-21,20GPI2011,20.0,gpi_state,Gender parity index by state,yes,Core
+2021-22,20GPI2011,20.0,gpi_state,Gender parity index by state,yes,Core
+2022-23,20GPI2011,20.0,gpi_state,Gender parity index by state,yes,Core
+2023-24,20GPI2011,20.0,gpi_state,Gender parity index by state,yes,Core
+2019-20,31Hostelstate ,31.0,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
+2020-21,31Hostelstate ,31.0,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
+2021-22,31Hostelstate ,31.0,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
+2022-23,31Hostelstate ,31.0,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
+2023-24,31Hostelstate ,31.0,hostel_state,"Hostels, intake, students residing",yes,Trailing space in name
+2019-20,32TypeHostel,32.0,hostel_univ_type,Hostels by university type,yes,
+2020-21,32TypeHostel,32.0,hostel_univ_type,Hostels by university type,yes,
+2021-22,32TypeHostel,32.0,hostel_univ_type,Hostels by university type,yes,
+2022-23,32TypeHostel,32.0,hostel_univ_type,Hostels by university type,yes,
+2023-24,32TypeHostel,32.0,hostel_univ_type,Hostels by university type,yes,
+2022-23,33 Out Turn,33.0,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
+2023-24,33 Out Turn,33.0,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
+2019-20,33OutTurnState,33.0,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
+2020-21,33OutTurnState,33.0,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
+2021-22,33OutTurnState,33.0,outturn_level_state,Graduates by level and state,yes,"Core. Out-turn, not enrolment"
+2019-20,36 PGDisc ,36.0,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
+2020-21,36 PGDisc ,36.0,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
+2021-22,36 PGDisc ,36.0,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
+2022-23,36 PGDisc ,36.0,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
+2023-24,37 PGDisc_36E ,37.0,outturn_pg_discipline,PhD/MPhil/PG graduates by discipline,yes,Trailing space. Renumbered 36?37
+2022-23,34 Out Turn Prog,34.0,outturn_programme,Graduates by programme,yes,
+2023-24,34 Out Turn Prog,34.0,outturn_programme,Graduates by programme,yes,
+2019-20,34OutTurn Prog ,34.0,outturn_programme,Graduates by programme,yes,
+2020-21,34OutTurn Prog ,34.0,outturn_programme,Graduates by programme,yes,
+2021-22,34OutTurn Prog ,34.0,outturn_programme,Graduates by programme,yes,
 2023-24,Table 35 (34a E),,outturn_programme_social,Graduates by programme and social group,yes,Caste. Odd sheet name
-2023-24,33 (a) Category Out Turn,33,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
-2020-21,33a CategoryOutTurn,33,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
-2021-22,33a CategoryOutTurn,33,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
-2022-23,35 UG Discipline,35,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
-2019-20,35UGDisc,35,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
-2020-21,35UGDisc,35,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
-2021-22,35UGDisc,35,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
-2023-24,36 UG Discipline_35 E,36,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
-2021-22,38Pop (Cen 2011),38,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
-2019-20,38pop2019,38,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
-2020-21,38Pop2020(2011),38,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
-2022-23,38Pop2020(2011),38,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
-2023-24,38Pop2020(2011),38,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
-2019-20,49PTR,49,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
-2020-21,49PTR 25,49,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
-2021-22,49PTR 25,49,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
-2022-23,49PTR 25,49,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
-2023-24,49PTR 25,49,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
-2019-20,25PTR,25,ptr_state,Pupil-teacher ratio by state,yes,Core
-2020-21,25PTR,25,ptr_state,Pupil-teacher ratio by state,yes,Core
-2021-22,25PTR,25,ptr_state,Pupil-teacher ratio by state,yes,Core
-2022-23,25PTR,25,ptr_state,Pupil-teacher ratio by state,yes,Core
-2023-24,25PTR,25,ptr_state,Pupil-teacher ratio by state,yes,Core
-2022-23,1a.InsResponse,1,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
-2023-24,1a.InsResponse,1,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
-2019-20,1InsResponse,1,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
-2020-21,1InsResponse,1,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
-2021-22,1InsResponse,1,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
-2019-20,23StaffPost,23,staff_post,Non-teaching staff by position and sex,yes,
-2020-21,23StaffPost,23,staff_post,Non-teaching staff by position and sex,yes,
-2021-22,23StaffPost,23,staff_post,Non-teaching staff by position and sex,yes,
-2022-23,23StaffPost,23,staff_post,Non-teaching staff by position and sex,yes,
-2023-24,23StaffPost,23,staff_post,Non-teaching staff by position and sex,yes,
-2019-20,24StaffCategory,24,staff_social_state,Non-teaching staff by social group,yes,Caste
-2020-21,24StaffCategory,24,staff_social_state,Non-teaching staff by social group,yes,Caste
-2021-22,24StaffCategory,24,staff_social_state,Non-teaching staff by social group,yes,Caste
-2022-23,24StaffCategory,24,staff_social_state,Non-teaching staff by social group,yes,Caste
-2023-24,24StaffCategory,24,staff_social_state,Non-teaching staff by social group,yes,Caste
-2019-20,22TeacherPost,22,teacher_post,Teachers by position and sex,yes,
-2020-21,22TeacherPost,22,teacher_post,Teachers by position and sex,yes,
-2021-22,22TeacherPost,22,teacher_post,Teachers by position and sex,yes,
-2022-23,22TeacherPost,22,teacher_post,Teachers by position and sex,yes,
-2023-24,22TeacherPost,22,teacher_post,Teachers by position and sex,yes,
-2019-20,51PostTeacher,51,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
-2020-21,51PostTeacher,51,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
-2021-22,51PostTeacher,51,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
-2022-23,51PostTeacher,51,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
-2023-24,51PostTeacher,51,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
-2021-22,22aTeacherPostC,22,teacher_post_univ_college,Teachers in universities and their colleges,yes,
-2019-20,22aTeacherPostUC,22,teacher_post_univ_college,Teachers in universities and their colleges,yes,
-2020-21,22aTeacherPostUC,22,teacher_post_univ_college,Teachers in universities and their colleges,yes,
-2022-23,22aTeacherPostUC,22,teacher_post_univ_college,Teachers in universities and their colleges,yes,
-2023-24,22aTeacherPostUC,22,teacher_post_univ_college,Teachers in universities and their colleges,yes,
-2019-20,22bTeacherPostU,22,teacher_post_univ_dept,Teachers in university departments,yes,
-2020-21,22bTeacherPostU,22,teacher_post_univ_dept,Teachers in university departments,yes,
-2021-22,22bTeacherPostU,22,teacher_post_univ_dept,Teachers in university departments,yes,
-2022-23,22bTeacherPostU,22,teacher_post_univ_dept,Teachers in university departments,yes,
-2023-24,22bTeacherPostU,22,teacher_post_univ_dept,Teachers in university departments,yes,
-2019-20,29TypeTeacherPostEstimated,29,teacher_post_univ_type,Teachers by post and university type,yes,
-2020-21,29TypeTeacherPostEstimated,29,teacher_post_univ_type,Teachers by post and university type,yes,
-2021-22,29TypeTeacherPostEstimated,29,teacher_post_univ_type,Teachers by post and university type,yes,
-2022-23,29TypeTeacherPostEstimated,29,teacher_post_univ_type,Teachers by post and university type,yes,
-2023-24,29TypeTeacherPostEstimated,29,teacher_post_univ_type,Teachers by post and university type,yes,
-2019-20,21TeacherCategory,21,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
-2020-21,21TeacherCategory,21,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
-2021-22,21TeacherCategory,21,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
-2022-23,21TeacherCategory,21,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
-2023-24,21TeacherCategory,21,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
-2019-20,30TypeTeacherCategoryEstimated,30,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
-2020-21,30TypeTeacherCategoryEstimated,30,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
-2021-22,30TypeTeacherCategoryEstimated,30,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
-2022-23,30TypeTeacherCategoryEstimated,30,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
-2023-24,30TypeTeacherCategoryEstimated,30,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
-2022-23,1.UniNo,1,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
-2023-24,1.UniNo,1,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
-2019-20,1UniNo,1,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
-2020-21,1UniNo,1,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
-2021-22,1UniNo,1,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
-2019-20,40NoUni,40,university_count_series,"Universities registered, 5-year series",yes,Back-series
-2020-21,40NoUni,40,university_count_series,"Universities registered, 5-year series",yes,Back-series
-2021-22,40NoUni,40,university_count_series,"Universities registered, 5-year series",yes,Back-series
-2022-23,40NoUni,40,university_count_series,"Universities registered, 5-year series",yes,Back-series
-2023-24,40NoUni,40,university_count_series,"Universities registered, 5-year series",yes,Back-series
-2019-20,2University-Specialisation,2,university_specialisation,Universities by specialisation and state,yes,Actual response only
-2020-21,2University-Specialisation,2,university_specialisation,Universities by specialisation and state,yes,Actual response only
-2021-22,2University-Specialisation,2,university_specialisation,Universities by specialisation and state,yes,Actual response only
-2022-23,2University-Specialisation,2,university_specialisation,Universities by specialisation and state,yes,Actual response only
-2023-24,2University-Specialisation,2,university_specialisation,Universities by specialisation and state,yes,Actual response only
-2019-20,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2020-21,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2021-22,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2022-23,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2023-24,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2022-23,33 (a)(b) Category Out Turn,33,outturn_social_state,Graduates by social group and state,yes,Sheet named 33(a)(b) but holds 33a only; 26 cols vs 14 in 2023-24
-2020-21,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
-2021-22,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
-2022-23,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
-2019-20,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
-2020-21,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
-2021-22,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
-2022-23,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
-2019-20,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
-2020-21,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
-2022-23,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
-2019-20,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
-2020-21,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
-2021-22,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2023-24,33 (a) Category Out Turn,33.0,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
+2020-21,33a CategoryOutTurn,33.0,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
+2021-22,33a CategoryOutTurn,33.0,outturn_social_state,Graduates by social group and state,yes,Caste core. Completion story
+2022-23,35 UG Discipline,35.0,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
+2019-20,35UGDisc,35.0,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
+2020-21,35UGDisc,35.0,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
+2021-22,35UGDisc,35.0,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
+2023-24,36 UG Discipline_35 E,36.0,outturn_ug_discipline,UG graduates by discipline,yes,Renumbered 35?36 between years
+2021-22,38Pop (Cen 2011),38.0,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
+2019-20,38pop2019,38.0,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
+2020-21,38Pop2020(2011),38.0,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
+2022-23,38Pop2020(2011),38.0,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
+2023-24,38Pop2020(2011),38.0,population_projection,Population 18-23 by state and sex,yes,"Core. GER denominator, Census 2011 projection"
+2019-20,49PTR,49.0,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
+2020-21,49PTR 25,49.0,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
+2021-22,49PTR 25,49.0,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
+2022-23,49PTR 25,49.0,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
+2023-24,49PTR 25,49.0,ptr_series,"Pupil-teacher ratio, 5-year series",yes,Back-series
+2019-20,25PTR,25.0,ptr_state,Pupil-teacher ratio by state,yes,Core
+2020-21,25PTR,25.0,ptr_state,Pupil-teacher ratio by state,yes,Core
+2021-22,25PTR,25.0,ptr_state,Pupil-teacher ratio by state,yes,Core
+2022-23,25PTR,25.0,ptr_state,Pupil-teacher ratio by state,yes,Core
+2023-24,25PTR,25.0,ptr_state,Pupil-teacher ratio by state,yes,Core
+2022-23,1a.InsResponse,1.0,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
+2023-24,1a.InsResponse,1.0,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
+2019-20,1InsResponse,1.0,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
+2020-21,1InsResponse,1.0,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
+2021-22,1InsResponse,1.0,response_rate,"Institutions registered vs responded, by state",yes,"Core. Units differ by year: 0-100 in 2019-20, fractions later"
+2019-20,23StaffPost,23.0,staff_post,Non-teaching staff by position and sex,yes,
+2020-21,23StaffPost,23.0,staff_post,Non-teaching staff by position and sex,yes,
+2021-22,23StaffPost,23.0,staff_post,Non-teaching staff by position and sex,yes,
+2022-23,23StaffPost,23.0,staff_post,Non-teaching staff by position and sex,yes,
+2023-24,23StaffPost,23.0,staff_post,Non-teaching staff by position and sex,yes,
+2019-20,24StaffCategory,24.0,staff_social_state,Non-teaching staff by social group,yes,Caste
+2020-21,24StaffCategory,24.0,staff_social_state,Non-teaching staff by social group,yes,Caste
+2021-22,24StaffCategory,24.0,staff_social_state,Non-teaching staff by social group,yes,Caste
+2022-23,24StaffCategory,24.0,staff_social_state,Non-teaching staff by social group,yes,Caste
+2023-24,24StaffCategory,24.0,staff_social_state,Non-teaching staff by social group,yes,Caste
+2019-20,22TeacherPost,22.0,teacher_post,Teachers by position and sex,yes,
+2020-21,22TeacherPost,22.0,teacher_post,Teachers by position and sex,yes,
+2021-22,22TeacherPost,22.0,teacher_post,Teachers by position and sex,yes,
+2022-23,22TeacherPost,22.0,teacher_post,Teachers by position and sex,yes,
+2023-24,22TeacherPost,22.0,teacher_post,Teachers by position and sex,yes,
+2019-20,51PostTeacher,51.0,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
+2020-21,51PostTeacher,51.0,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
+2021-22,51PostTeacher,51.0,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
+2022-23,51PostTeacher,51.0,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
+2023-24,51PostTeacher,51.0,teacher_post_series,"Teachers by post, 5-year series",yes,Back-series. 43 columns
+2021-22,22aTeacherPostC,22.0,teacher_post_univ_college,Teachers in universities and their colleges,yes,
+2019-20,22aTeacherPostUC,22.0,teacher_post_univ_college,Teachers in universities and their colleges,yes,
+2020-21,22aTeacherPostUC,22.0,teacher_post_univ_college,Teachers in universities and their colleges,yes,
+2022-23,22aTeacherPostUC,22.0,teacher_post_univ_college,Teachers in universities and their colleges,yes,
+2023-24,22aTeacherPostUC,22.0,teacher_post_univ_college,Teachers in universities and their colleges,yes,
+2019-20,22bTeacherPostU,22.0,teacher_post_univ_dept,Teachers in university departments,yes,
+2020-21,22bTeacherPostU,22.0,teacher_post_univ_dept,Teachers in university departments,yes,
+2021-22,22bTeacherPostU,22.0,teacher_post_univ_dept,Teachers in university departments,yes,
+2022-23,22bTeacherPostU,22.0,teacher_post_univ_dept,Teachers in university departments,yes,
+2023-24,22bTeacherPostU,22.0,teacher_post_univ_dept,Teachers in university departments,yes,
+2019-20,29TypeTeacherPostEstimated,29.0,teacher_post_univ_type,Teachers by post and university type,yes,
+2020-21,29TypeTeacherPostEstimated,29.0,teacher_post_univ_type,Teachers by post and university type,yes,
+2021-22,29TypeTeacherPostEstimated,29.0,teacher_post_univ_type,Teachers by post and university type,yes,
+2022-23,29TypeTeacherPostEstimated,29.0,teacher_post_univ_type,Teachers by post and university type,yes,
+2023-24,29TypeTeacherPostEstimated,29.0,teacher_post_univ_type,Teachers by post and university type,yes,
+2019-20,21TeacherCategory,21.0,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
+2020-21,21TeacherCategory,21.0,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
+2021-22,21TeacherCategory,21.0,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
+2022-23,21TeacherCategory,21.0,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
+2023-24,21TeacherCategory,21.0,teacher_social_state,"Teachers by SC/ST/OBC, minority, PwBD",yes,Caste core. 21a and 21b share one sheet
+2019-20,30TypeTeacherCategoryEstimated,30.0,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
+2020-21,30TypeTeacherCategoryEstimated,30.0,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
+2021-22,30TypeTeacherCategoryEstimated,30.0,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
+2022-23,30TypeTeacherCategoryEstimated,30.0,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
+2023-24,30TypeTeacherCategoryEstimated,30.0,teacher_social_univ_type,Teachers by social group and university type,yes,Caste
+2022-23,1.UniNo,1.0,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
+2023-24,1.UniNo,1.0,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
+2019-20,1UniNo,1.0,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
+2020-21,1UniNo,1.0,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
+2021-22,1UniNo,1.0,university_count,Universities by state and type,yes,Renamed from 1UniNo in 2022-23
+2019-20,40NoUni,40.0,university_count_series,"Universities registered, 5-year series",yes,Back-series
+2020-21,40NoUni,40.0,university_count_series,"Universities registered, 5-year series",yes,Back-series
+2021-22,40NoUni,40.0,university_count_series,"Universities registered, 5-year series",yes,Back-series
+2022-23,40NoUni,40.0,university_count_series,"Universities registered, 5-year series",yes,Back-series
+2023-24,40NoUni,40.0,university_count_series,"Universities registered, 5-year series",yes,Back-series
+2019-20,2University-Specialisation,2.0,university_specialisation,Universities by specialisation and state,yes,Actual response only
+2020-21,2University-Specialisation,2.0,university_specialisation,Universities by specialisation and state,yes,Actual response only
+2021-22,2University-Specialisation,2.0,university_specialisation,Universities by specialisation and state,yes,Actual response only
+2022-23,2University-Specialisation,2.0,university_specialisation,Universities by specialisation and state,yes,Actual response only
+2023-24,2University-Specialisation,2.0,university_specialisation,Universities by specialisation and state,yes,Actual response only
+2019-20,41NoUniType,41.0,university_type_series,"Universities by type, 5-year series",yes,Back-series
+2020-21,41NoUniType,41.0,university_type_series,"Universities by type, 5-year series",yes,Back-series
+2021-22,41NoUniType,41.0,university_type_series,"Universities by type, 5-year series",yes,Back-series
+2022-23,41NoUniType,41.0,university_type_series,"Universities by type, 5-year series",yes,Back-series
+2023-24,41NoUniType,41.0,university_type_series,"Universities by type, 5-year series",yes,Back-series
+2022-23,33 (a)(b) Category Out Turn,33.0,outturn_social_state,Graduates by social group and state,yes,Sheet named 33(a)(b) but holds 33a only; 26 cols vs 14 in 2023-24
+2020-21,34a,34.0,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2021-22,34a,34.0,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2022-23,34a,34.0,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2019-20,37CollegeTypeNo,37.0,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2020-21,37CollegeTypeNo,37.0,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2021-22,37CollegeTypeNo,37.0,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2022-23,37CollegeTypeNo,37.0,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2019-20,4aCollegeSpec,4.0,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2020-21,4aCollegeSpec,4.0,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2022-23,4aCollegeSpec,4.0,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2019-20,52Pop,52.0,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2020-21,52Pop,52.0,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2021-22,52Pop,52.0,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
 2021-22,New Table 4a Revised,,college_specialisation,Colleges by specialisation and state,yes,Same content as 4aCollegeSpec; renamed in 2021-22 only
 2019-20,Paste,,,,no,"Leftover working scratch sheet, not a published table"
 2020-21,Paste,,,,no,"Leftover working scratch sheet, not a published table"
@@ -317,6 +317,6 @@ report,sheet_name,table_no_guess,table_id,description,include,notes
 2019-20,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
 2020-21,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
 2021-22,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
-2019-20,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
-2020-21,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
-2021-22,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
+2019-20,WomenCollege,,university_specialisation_t1,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, universities by specialisation. Distinct from Table 2 in 2University-Specialisation"
+2020-21,WomenCollege,,university_specialisation_t1,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, universities by specialisation. Distinct from Table 2 in 2University-Specialisation"
+2021-22,WomenCollege,,university_specialisation_t1,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, universities by specialisation. Distinct from Table 2 in 2University-Specialisation"
