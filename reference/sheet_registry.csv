@@ -75,21 +75,21 @@ report,sheet_name,table_no_guess,table_id,description,include,notes
 2021-22,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
 2022-23,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
 2023-24,13PGDisc,13,enrol_pg_discipline,PhD/MPhil/PG enrolment by discipline,yes,
-2019-20,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2020-21,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2021-22,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2022-23,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2023-24,11Programme,11,enrol_programme_social,"Programme × social group, all modes",yes,"Caste. 268 rows, programme-level"
-2019-20,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2020-21,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2021-22,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2023-24,11b ProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2022-23,11bProgrammeDistance ,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2022-23,11dProgrammeOnline,11,enrol_programme_social_distance,"Programme × social group, distance mode",yes,Trailing space in name
-2021-22,11bProgrammePrivate,11,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
-2022-23,11cProgrammePrivate,11,enrol_programme_social_private,"Programme × social group, private",yes,Trailing space in name
-2023-24,11a programme regular,11,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
-2022-23,11aProgrammeRegular,11,enrol_programme_social_regular,"Programme × social group, regular mode",yes,
+2019-20,11Programme,11,enrol_programme_social,"Programme Ã— social group, all modes",yes,"Caste. 268 rows, programme-level"
+2020-21,11Programme,11,enrol_programme_social,"Programme Ã— social group, all modes",yes,"Caste. 268 rows, programme-level"
+2021-22,11Programme,11,enrol_programme_social,"Programme Ã— social group, all modes",yes,"Caste. 268 rows, programme-level"
+2022-23,11Programme,11,enrol_programme_social,"Programme Ã— social group, all modes",yes,"Caste. 268 rows, programme-level"
+2023-24,11Programme,11,enrol_programme_social,"Programme Ã— social group, all modes",yes,"Caste. 268 rows, programme-level"
+2019-20,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2020-21,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2021-22,11aProgrammeDistance ,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2023-24,11b ProgrammeDistance ,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2022-23,11bProgrammeDistance ,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2022-23,11dProgrammeOnline,11,enrol_programme_social_distance,"Programme Ã— social group, distance mode",yes,Trailing space in name
+2021-22,11bProgrammePrivate,11,enrol_programme_social_private,"Programme Ã— social group, private",yes,Trailing space in name
+2022-23,11cProgrammePrivate,11,enrol_programme_social_private,"Programme Ã— social group, private",yes,Trailing space in name
+2023-24,11a programme regular,11,enrol_programme_social_regular,"Programme Ã— social group, regular mode",yes,
+2022-23,11aProgrammeRegular,11,enrol_programme_social_regular,"Programme Ã— social group, regular mode",yes,
 2019-20,45EnrlCategory,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
 2020-21,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
 2021-22,45EnrlCategory 14,45,enrol_social_series,"SC/ST/OBC enrolment, 5-year series",yes,Back-series. Caste core
@@ -293,30 +293,30 @@ report,sheet_name,table_no_guess,table_id,description,include,notes
 2021-22,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
 2022-23,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
 2023-24,41NoUniType,41,university_type_series,"Universities by type, 5-year series",yes,Back-series
-2022-23,33 (a)(b) Category Out Turn,33,,,,
-2020-21,34a,34,,,,
-2021-22,34a,34,,,,
-2022-23,34a,34,,,,
-2019-20,37CollegeTypeNo,37,,,,
-2020-21,37CollegeTypeNo,37,,,,
-2021-22,37CollegeTypeNo,37,,,,
-2022-23,37CollegeTypeNo,37,,,,
-2019-20,4aCollegeSpec,4,,,,
-2020-21,4aCollegeSpec,4,,,,
-2022-23,4aCollegeSpec,4,,,,
-2019-20,52Pop,52,,,,
-2020-21,52Pop,52,,,,
-2021-22,52Pop,52,,,,
-2021-22,New Table 4a Revised,,,,,
-2019-20,Paste,,,,,
-2020-21,Paste,,,,,
-2021-22,Paste,,,,,
-2019-20,RespondingTypeCollege,,,,,
-2020-21,RespondingTypeCollege,,,,,
-2021-22,RespondingTypeCollege,,,,,
-2019-20,StandaloneMgt,,,,,
-2020-21,StandaloneMgt,,,,,
-2021-22,StandaloneMgt,,,,,
-2019-20,WomenCollege,,,,,
-2020-21,WomenCollege,,,,,
-2021-22,WomenCollege,,,,,
+2022-23,33 (a)(b) Category Out Turn,33,outturn_social_state,Graduates by social group and state,yes,Sheet named 33(a)(b) but holds 33a only; 26 cols vs 14 in 2023-24
+2020-21,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2021-22,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2022-23,34a,34,outturn_programme_social,Graduates by programme and social group,yes,Renumbered to Table 35 in 2023-24
+2019-20,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2020-21,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2021-22,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2022-23,37CollegeTypeNo,37,institutions_by_univ_type,"Institutions attached to universities, by university type and state",yes,Dropped after 2022-23
+2019-20,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2020-21,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2022-23,4aCollegeSpec,4,college_specialisation,Colleges by specialisation and state,yes,"Renamed ""New Table 4a Revised"" in 2021-22"
+2019-20,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2020-21,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2021-22,52Pop,52,population_series,"Population 18-23 by state and sex, 5-year series",yes,BACK-SERIES. Years are COLUMNS not rows. Dropped after 2021-22
+2021-22,New Table 4a Revised,,college_specialisation,Colleges by specialisation and state,yes,Same content as 4aCollegeSpec; renamed in 2021-22 only
+2019-20,Paste,,,,no,"Leftover working scratch sheet, not a published table"
+2020-21,Paste,,,,no,"Leftover working scratch sheet, not a published table"
+2021-22,Paste,,,,no,"Leftover working scratch sheet, not a published table"
+2019-20,RespondingTypeCollege,,,,no,"Raw pivot output, superseded by Table 8"
+2020-21,RespondingTypeCollege,,,,no,"Raw pivot output, superseded by Table 8"
+2021-22,RespondingTypeCollege,,,,no,"Raw pivot output, superseded by Table 8"
+2019-20,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
+2020-21,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
+2021-22,StandaloneMgt,,,,no,"8-row fragment, no state dimension, superseded by Table 9"
+2019-20,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
+2020-21,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
+2021-22,WomenCollege,,university_specialisation,Universities by specialisation and state,yes,"SHEET NAME MISLEADING: contains Table 1, not women colleges"
